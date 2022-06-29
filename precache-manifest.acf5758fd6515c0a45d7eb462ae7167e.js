@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5b1c8dce919bba609ce236786916082f",
+    "revision": "f41921096dbee511741184c49b8f45d5",
     "url": "/keeper-app-react/index.html"
   },
   {
